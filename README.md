@@ -14,7 +14,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn imbalanced-learn scipy
 
 ### Running the Notebook
 
-1. Download the dataset from Kaggle: `healthcare-dataset-stroke-data.csv`
+1. Access the dataset from the dataset directory.
 2. Update the file path in Cell 1 to match your local directory
 3. Run cells sequentially from top to bottom
 
